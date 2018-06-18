@@ -45,6 +45,11 @@ TODO
 
 ## Description
 
-![Preliminary Design](http:./images/SerentityData.Perfmon%20Spec%20v0.5.png)
+TODO
+
+## Design
+TODO
+
+![Preliminary Design](./images/SerentityData.Perfmon%20Spec%20v0.5.png)
 
 TODO
