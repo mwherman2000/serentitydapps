@@ -21,6 +21,7 @@ your contributions of time, energy, passion, promotion, and donations.
 
 * To learn more about contributing to the `serentitydata` project, click 
 [here](https://github.com/mwherman2000/serentitydata/blob/master/CONTRIBUTE.md).
+
 * To contribute a new SerentyData dApp, open an issue [here] and enter all the pertient details:
     * dApp Name
     * Project URL
