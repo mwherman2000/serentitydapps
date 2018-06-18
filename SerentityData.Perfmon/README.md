@@ -1,6 +1,8 @@
 # SerentityData.Perfmon
 
-On-chain blockchain performance monitoring
+On-chain Blockchain Performance Monitoring
+
+[Serentity Distributed Data Apps (serentitydapps)](https://github.com/mwherman2000/serentitydapps) Project
 
 Part of the [SerentityData Compiler, Runtime, Graph, and Digital Ledger Standards](https://github.com/mwherman2000/serentitydata) Project
 
