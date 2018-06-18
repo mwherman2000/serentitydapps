@@ -5,7 +5,7 @@ Part of the [SerentityData Compiler, Runtime, Graph, and Digital Ledger Standard
 * Purpose
 * Distributed Data App Catalog
     * SerentityData.DNS
-    * SerentityData.Perfmon
+    * [SerentityData.Perfmon](./SerentityData.Perfmon)
 
 ## Purpose
 
