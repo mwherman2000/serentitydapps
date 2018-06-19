@@ -1,4 +1,4 @@
-# SerentityData.Perfmon
+# SerentityDapp.Perfmon
 
 On-chain Blockchain Performance Monitoring
 
@@ -52,6 +52,6 @@ TODO
 ## Design
 TODO
 
-![Preliminary Design](./images/SerentityData.Perfmon%20Spec%20v0.5.png)
+![Preliminary Design](./images/NCP-001 SerentityDapp.Perfmon v0.6.png)
 
 TODO
