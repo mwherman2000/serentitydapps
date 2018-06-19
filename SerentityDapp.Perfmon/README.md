@@ -52,6 +52,6 @@ TODO
 ## Design
 TODO
 
-![Preliminary Design](./images/NCP-001 SerentityDapp.Perfmon v0.6.png)
+![Preliminary Design](./images/NCP-001%20SerentityDapp.Perfmon%20v0.6.png)
 
 TODO
