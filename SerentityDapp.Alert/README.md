@@ -52,6 +52,6 @@ TODO
 ## Design
 TODO
 
-![Preliminary Design](./images/NCP-002%20SerentityDapp.Alert%20v0.6.png)
+![Preliminary Design](./images/NCP-002%20SerentityDapp.Alert%20v0.7.png)
 
 TODO
