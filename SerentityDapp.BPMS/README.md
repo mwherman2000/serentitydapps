@@ -56,6 +56,7 @@ TODO
 TODO
 
 ![Camunda Cockpit](./images/demo.gif)
+
 ![Camunda Tasklist](./images/tasklist-task-form-modeler.png)
 
 TODO
@@ -65,11 +66,17 @@ TODO
 TODO
 
 ![Camunda Cockpit](./images/step1_overview.png)
+
 ![Camunda Cockpit](./images/cockpit-decision-instance-view.png)
+
 ![Camunda Cockpit](./images/cockpit-heatmap.png)
+
 ![Camunda Cockpit](./images/cockpit-history-view-process-definition-history.png)
+
 ![Camunda Cockpit](./images/cockpit-history-view-process-instance-history.png)
+
 ![Camunda Cockpit](./images/cockpit-process-definitions-view.png)
+
 ![Camunda Cockpit](./images/plugin-point-process-instance-runtime-action.png)
 
 TODO
@@ -79,6 +86,7 @@ TODO
 TODO
 
 ![Camunda Tasklist](./images/tasklist-dashboard-detail.png)
+
 ![Camunda Tasklist](./images/tasklist-task-view.png)
 
 TODO
@@ -90,6 +98,12 @@ TODO
 ![Preliminary Design](./images/BPMS-Engine%20Designs%20v0.3.png)
 
 TODO
+
+## SerentityDapp.BPMS Byte Encoding Example
+
+![SerentityDapp.BPMS Byte Encoding Example](./images/UserTaskFoo2-c.png)
+
+![SerentityDapp.BPMS Byte Encoding Example](./images/BPMSByteCodev0.1.png)
 
 ## Resources
 
