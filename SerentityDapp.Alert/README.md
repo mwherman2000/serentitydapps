@@ -41,9 +41,10 @@ TODO
 * .NET Core 2.0 and later
 * Visual Studio 2017 Community Edition
 * Distributed Ledger Technology (DLT) Platforms
-    * [NEO Blockchain DLT](http://neo.org)
-    * [Stratis Blockchain DLT](http://www.stratisplatform.com)
-    * [#DIYDLT Blockchain DLT](https://www.linkedin.com/feed/update/urn:li:activity:6414282773086949376)
+    * [Stratis Platform](http://www.stratisplatform.com)
+    * [Ethereum](https://www.ethereum.org/)
+    * [NEO Blockchain](http://neo.org)
+    * [#DIYDLT Blockchain](https://www.linkedin.com/feed/update/urn:li:activity:6414282773086949376)
 
 ## Description
 
